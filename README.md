@@ -1,1 +1,5 @@
 # desertpy_random_forest_shapley_values
+
+eli5
+shap
+pydotplus
