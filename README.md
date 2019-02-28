@@ -1,5 +1,9 @@
 # Using SHAP to interpret complex models
 
+
+Chris Herman
+[www.chris-j-herman.com](www.chris-j-herman.com)
+
 ### Packages Used:
 ### SHAP
 
