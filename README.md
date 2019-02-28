@@ -1,4 +1,5 @@
 # Using SHAP to interpret complex models
+# https://github.com/cjherman6/desertpy_shap
 
 
 Chris Herman
